@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9568d3af-6bed-4f10-bfc0-0ce8da9420b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/HandGuesture.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/collect_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_10.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_11.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_12.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_13.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_14.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_15.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_16.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_17.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_18.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_19.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_20.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_21.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_22.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_23.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_24.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_25.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_26.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_27.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_28.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_29.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_3.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_30.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_31.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_32.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_33.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_34.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_35.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_36.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_37.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_38.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_39.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_4.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_40.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_41.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_42.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_43.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_44.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_45.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_46.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_47.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_48.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_49.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_5.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_50.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_6.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_7.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_8.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Hello/sample_9.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_10.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_11.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_12.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_13.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_14.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_15.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_16.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_17.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_18.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_19.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_20.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_21.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_22.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_23.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_24.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_25.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_26.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_27.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_28.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_29.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_3.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_30.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_31.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_32.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_33.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_34.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_35.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_36.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_37.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_38.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_39.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_4.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_40.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_41.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_42.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_43.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_44.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_45.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_46.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_47.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_48.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_49.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_5.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_6.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_7.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_8.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Nice/sample_9.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_10.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_11.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_12.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_13.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_14.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_15.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_16.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_17.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_18.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_19.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_20.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_21.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_22.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_23.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_24.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_25.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_26.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_27.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_28.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_29.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_3.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_30.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_31.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_32.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_33.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_34.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_35.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_36.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_37.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_38.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_39.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_4.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_40.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_41.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_42.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_43.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_44.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_45.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_46.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_47.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_48.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_49.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_5.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_6.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_7.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_8.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Smile/sample_9.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_10.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_11.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_12.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_13.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_14.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_15.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_16.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_17.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_18.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_19.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_20.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_21.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_22.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_23.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_24.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_25.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_26.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_27.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_28.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_29.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_3.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_30.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_31.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_32.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_33.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_34.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_35.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_36.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_37.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_38.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_39.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_4.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_40.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_41.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_42.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_43.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_44.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_45.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_46.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_47.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_48.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_49.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_5.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_50.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_51.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_52.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_53.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_54.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_55.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_56.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_57.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_58.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_59.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_6.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_60.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_61.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_62.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_63.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_7.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_8.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Thank you/sample_9.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_10.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_11.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_12.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_13.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_14.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_15.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_16.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_17.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_18.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_19.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_20.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_21.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_22.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_23.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_24.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_25.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_26.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_27.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_28.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_29.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_3.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_30.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_31.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_32.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_33.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_34.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_35.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_36.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_37.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_38.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_39.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_4.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_40.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_41.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_42.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_43.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_44.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_45.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_46.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_47.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_48.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_49.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_5.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_50.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_51.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_6.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_7.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_8.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Three/sample_9.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_10.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_11.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_12.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_13.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_14.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_15.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_16.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_17.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_18.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_19.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_20.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_21.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_22.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_23.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_24.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_25.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_26.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_27.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_28.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_29.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_3.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_30.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_31.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_32.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_33.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_34.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_35.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_36.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_37.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_38.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_39.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_4.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_40.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_41.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_42.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_43.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_44.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_45.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_46.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_47.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_48.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_49.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_5.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_50.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_51.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_52.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_53.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_54.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_6.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_7.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_8.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/four/sample_9.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_1.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_10.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_11.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_12.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_13.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_14.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_15.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_16.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_17.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_18.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_19.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_2.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_20.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_21.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_22.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_23.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_24.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_25.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_26.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_27.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_28.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_29.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_3.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_30.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_31.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_32.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_33.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_34.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_35.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_36.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_37.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_38.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_39.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_4.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_40.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_41.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_42.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_43.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_44.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_45.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_46.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_47.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_48.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_49.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_5.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_50.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_51.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_52.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_53.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_54.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_6.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_7.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_8.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pointing/sample_9.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hand_guesture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/gesture_model.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/model/label_encoder.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recognize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/train_model.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="30YQfnuMacOqVRveK2kyYARsxmK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.collect_data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.hand_guesture.executor&quot;: &quot;Run&quot;,
+    &quot;Python.recognize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_model.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5a2391486177-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13763.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9568d3af-6bed-4f10-bfc0-0ce8da9420b7" name="Changes" comment="" />
+      <created>1753802132745</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753802132745</updated>
+    </task>
+    <servers />
+  </component>
+</project>
